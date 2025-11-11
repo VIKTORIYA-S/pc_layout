@@ -17,10 +17,6 @@ navLinks.forEach(link => {
                 inline: 'center'
             });
             }
-        
-        // const id = link.getAttribute('href');
-        // document.querySelector(id).scrollIntoView({
-        //     behavior: 'smooth'
-        // });
     });
 });
+
