@@ -1,5 +1,5 @@
 const navbar = document.querySelector('.header__nav');
-console.log(navbar);
+// console.log(navbar);
 const navLinks = navbar.querySelectorAll('a');
 
 navLinks.forEach(link => {
